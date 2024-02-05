@@ -1,5 +1,4 @@
 # Raspberry Pi GPIO Control with libgpiod
----
 
 ## Introduction
 
