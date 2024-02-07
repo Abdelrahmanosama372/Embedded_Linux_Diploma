@@ -1,0 +1,9 @@
+[Unit]
+Description="hello gui app"
+[Service]
+User=raspi
+Restart=on-failure
+ExecStart=/usr/bin/python /home/raspi/guiApp/gui.py
+Environment="DISPLAY=:0"
+[Install]
+WantedBy=graphical.target
