@@ -18,7 +18,7 @@ test_led: led-test {
 
 2- compile the `the device tree source(dts)` to get the `the device tree binary(dtb)`
 
-### video 
+<!-- ### video 
 this video shows that the bring up of the led is done successfully
-<video src="bringUpLed-2024-02-22_23.46.55.mp4" width="600" height="300" controls><video>
+ -->
 
